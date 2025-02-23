@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning C Programming:) 
+- 🌱 I’m currently learning C++ Programming:) 
 - 🔭 I’m currently pursuing my B.Tech in JIIT Noida.
-- ⚡ On hand project: *soon*.
+- ⚡ On hand project: Delhi Metro Management System in C.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
