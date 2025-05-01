@@ -54,6 +54,19 @@
 </p>
 
 ---
+## 🔥 Featured Projects
+
+- 🔧 [Mitra: Personal Virtual Assistant in C++](https://github.com/Prashant-Garg7/mitra-personal-assistant)
+- 🚇 [Delhi Metro Management System (C)](https://github.com/Prashant-Garg7/delhi-metro-system)
+
+## 🛠️ My Skillset
+
+| Language   | Tools & IDEs       | Areas of Interest       |
+|------------|--------------------|--------------------------|
+| C, C++     | VS Code, Dev C++   | System Programming       |
+| JavaScript | Git, GitHub        | Console Apps, Automation |
+| TypeScript | eSpeak, Windows API| CLI Tools, TTS Projects  |
+
 
 > 🧠 *“The best way to learn is by building something real.”* — Keep coding, keep learning!
 
